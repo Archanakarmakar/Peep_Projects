@@ -13,7 +13,9 @@ function App() {
         <p>
           Tell Me More!!!
         </p>
-       
+       <p>
+        Which categories are belongs to?
+       </p>
     <select>
     <option value="Culture/Interpersonal/Team">Culture/Interpersonal/Team</option>
     <option value="Safety/Complance/Health">Safety/Complance/Health</option>
